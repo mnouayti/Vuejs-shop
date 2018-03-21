@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# my-shop
+
+# Vuejs online shop
 
 > A Vue.js project
 
@@ -20,6 +20,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# Vuejs-shop
->>>>>>> 7064d66c8269339aa02d317a2b6a736b970c05b6
+
