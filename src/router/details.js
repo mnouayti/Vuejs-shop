@@ -1,4 +1,4 @@
-import Details from '@/pages/Details'
+import Details from '@/components/pages/Details'
 
 export default {
   path: '/details/:id',

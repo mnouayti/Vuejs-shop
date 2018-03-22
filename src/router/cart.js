@@ -1,4 +1,4 @@
-import Cart from '@/pages/Cart'
+import Cart from '@/components/pages/Cart'
 
 export default {
   path: '/cart',
