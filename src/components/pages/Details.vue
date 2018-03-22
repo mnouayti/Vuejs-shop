@@ -6,7 +6,7 @@
 </template>
 
 <script>
-  import ProductDetails from '../components/product/ProductDetails'
+  import ProductDetails from '@/components/products/ProductDetails'
   export default {
     created () {
       if (!this.product.name) {
